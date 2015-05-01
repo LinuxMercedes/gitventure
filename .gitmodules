@@ -1,0 +1,4 @@
+[submodule "go-left"]
+	path = go-left
+	url = https://github.com/LinuxMercedes/gitventure.git
+	branch = field1
