@@ -2,3 +2,7 @@
 	path = go-right
 	url = https://github.com/LinuxMercedes/gitventure.git
 	branch = master
+[submodule "nope-out-of-here"]
+	path = nope-out-of-here
+	url = https://github.com/LinuxMercedes/gitventure.git
+	branch = master
