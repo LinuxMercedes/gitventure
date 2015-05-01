@@ -1,0 +1,4 @@
+[submodule "go-right"]
+	path = go-right
+	url = https://github.com/LinuxMercedes/gitventure.git
+	branch = master
