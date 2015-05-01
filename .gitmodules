@@ -2,3 +2,7 @@
 	path = go-left
 	url = https://github.com/LinuxMercedes/gitventure.git
 	branch = field1
+[submodule "dungeon1"]
+	path = go-right
+	url = https://github.com/LinuxMercedes/gitventure.git
+	branch = dungeon1
